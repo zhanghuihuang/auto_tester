@@ -1,0 +1,6 @@
+### IntelliJ PyCharm ###
+.idea
+/out/
+
+### Project ###
+/venv/
